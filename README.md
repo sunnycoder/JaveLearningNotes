@@ -21,9 +21,7 @@ Java学习笔记
 
 * 数据结构
 
-* String StringBuffer StringBuilder详解
-  
-  [String](./doc/String/String.md)
+* [String StringBuffer StringBuilder详解](./doc/String/String.md)
 
 * 关键字 final this 
 * JVM

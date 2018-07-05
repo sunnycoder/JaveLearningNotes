@@ -8,8 +8,7 @@ java中String、StringBuffer、StringBuilder是编程中经常使用的字符串
 
 下面详细分析下这三个字符串类，并做对比总结。
 
-
-![思维导图](String.png)
+![思维导图](./String.png)
 
 
 ## String
@@ -357,8 +356,12 @@ StringBuffer与StringBuilder，他们是字符串变量，是可改变的对象�
 
 ## 源码分析
 
+TODO
 
-##　总结
+[String、StringBuffer、StringBuilder源码解读](https://www.cnblogs.com/snifferhu/p/5903958.html)
+
+## 总结
+
 
 ![对比总结](./StringVS.png)
 
