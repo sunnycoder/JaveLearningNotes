@@ -7,6 +7,13 @@ Java学习笔记
 
 ## 目录
 
+* Java基础
+ 
+ - 类 
+ - 对象 
+ - 关键字 
+
+
 * 泛型
 
 * 反射
@@ -20,6 +27,13 @@ Java学习笔记
 * 异常处理
 
 * 数据结构
+
+    - 单链表
+    - 双向链表
+    - 栈
+    - 树
+    - 
+
 
 * [String StringBuffer StringBuilder详解](./doc/String/String.md)
 
