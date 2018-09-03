@@ -7,40 +7,62 @@ Java学习笔记
 
 ## 目录
 
-* Java基础
- 
- - 类 
- - 对象 
- - 关键字 
+* 面向对象
 
+- 抽象
+- 继承
+- 封装
+- 多态
 
-* 泛型
+* 操作符
 
-* [反射](./doc/Reflection/Reflection.md)
+* 控制流
 
-* 静态变量 静态方法 静态类 静态内部类
+* 访问控制权限
 
-* 内部类 匿名内部类
+* 关键字
+
+    - final
+    - static 静态变量 静态方法 静态类 静态内部类
+    - this
+    - super
+    - new
 
 * 抽象类 接口
 
+
+* [内部类](./doc/InnerClass/InnerClass.md)
+
 * 异常处理
+
+* [字符串String StringBuffer StringBuilder详解](./doc/String/String.md)
+
+* 正则表达式
+
+* Class
+
+* [反射](./doc/Reflection/Reflection.md)
+* 泛型
+
+* 数组
 
 * 数据结构
 
-    - 单链表
-    - 双向链表
-    - 栈
-    - 树
-    - 
+* IO
 
-
-* [String StringBuffer StringBuilder详解](./doc/String/String.md)
-
-* 关键字 final this 
-* JVM
-* 并发 多线程
-* JNI
 * 注解
+
+* 并发 多线程
+
+* JNI
+
 * Java8 新特性
+
 * BitMask
+
+* JVM
+ 
+- 内存
+- 对象
+- 垃圾回收
+
