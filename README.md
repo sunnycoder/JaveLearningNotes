@@ -20,16 +20,9 @@ Java学习笔记
 
 * 访问控制权限
 
-* 关键字
-
-    - final
-    - static 静态变量 静态方法 静态类 静态内部类
-    - this
-    - super
-    - new
+* [关键字](./doc/KeyWord/KeyWord.md)
 
 * 抽象类 接口
-
 
 * [内部类](./doc/InnerClass/InnerClass.md)
 
@@ -42,11 +35,14 @@ Java学习笔记
 * Class
 
 * [反射](./doc/Reflection/Reflection.md)
+
 * 泛型
 
 * 数组
 
 * 数据结构
+
+* [集合](./doc/Collections/Collections.md)
 
 * IO
 
