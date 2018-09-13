@@ -8,7 +8,7 @@ Java基础类型与包装器详解
 
 思维导图：
 
-![Xmind](Wrapper-Xmind.png)
+![Xmind](./res/Wrapper-Xmind.png)
 
 ## 基础类型
     在Java中有八种基本数据类型
