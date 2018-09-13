@@ -195,7 +195,6 @@ output:
 Java为了提高性能，静态字符串（字面量/常量/常量连接的结果）在常量池中创建，并尽量使用同一个对象，重用静态字符串。对于重复出现的字符串直接量，JVM会首先在常量池中查找，如果常量池中存在即返回该对象。
 
 ```
-
     public class test1 {
         public static void main(String[] args) {
             String str1 = "Hello"; // 常量池未有该对象，需要创建，生成两个对象
@@ -209,6 +208,10 @@ Java为了提高性能，静态字符串（字面量/常量/常量连接的结�
         }
     }
 ```
+
+内存模型（仅供便于理解，实际内存情况见JVM内存分析）：
+
+![MemoryState](./MemoryState.png)
 
 ### ==  && equal
 
