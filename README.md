@@ -28,7 +28,7 @@ Java学习笔记
 
 * [内部类](./doc/InnerClass/InnerClass.md)
 
-* 异常处理
+* [异常处理](./doc/Exception/Exception.md)
 
 * [字符串String StringBuffer StringBuilder详解](./doc/String/String.md)
 
